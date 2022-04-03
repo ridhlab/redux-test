@@ -1,0 +1,21 @@
+.table {
+    width: 100%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+}
+
+.table td {
+    text-align: center;
+}
+
+.deleteText {
+    color: #d9534f;
+    font-weight: 600;
+    text-shadow: 0 0 3px #d9534f;
+    cursor: pointer;
+}
